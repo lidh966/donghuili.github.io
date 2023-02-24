@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,34 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+=====
+* Water Resources Engineering and Reservoir Operation
+* Machine Learning and Data-driven Model
+* Hydrological and Socioeconomic Drought
+* Water Economics
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Hydraulic Engineering, Tsinghua University, 2018
+* M.S. in Civil and Environmental Engineering, University of Illinois at Urbana-Champaign, 2020
+* Graduate Minor in Statistics, University of Illinois at Urbana-Champaign, 2021
+* Ph.D. in Civil and Environmental Engineering, University of Illinois at Urbana-Champaign, 2024 (expected)
 
-Work experience
+Research Experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - current: Doctoral Researcher, University of Illinois at Urbana-Champaign
+  * Data-driven reservoir operation modeling for 450+ large reservoirs across the CONUS and its implementation with hydrological simulations.
+  * Drought cycle analysis between meteorological and water storage drought for water resources regions across the CONUS.
+  * Development of drought indicators for socioeconomic drought and impacts.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2020: Master Researcher, University of Illinois at Urbana-Champaign
+  * Development of web-based generic decision supporting tools for reservoir operation.
+
+* 2017 - 2018: Senior Project, Tsinghua University
+  * Hedging operation for parallel-reservoirs system for water supply and flood control.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Scientific computing: Python, R, Fortran, Matlab
+* Machine learning: scikit-learn, PyTorch
+* Cloud computing: AWS EC2
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +58,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
