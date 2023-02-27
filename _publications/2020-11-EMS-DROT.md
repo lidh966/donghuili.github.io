@@ -2,7 +2,7 @@
 title: "Online generic diagnostic reservoir operation tools"
 collection: publications
 permalink: /publication/2020-11-EMS-DROT
-excerpt: 'The DROT paper'
+excerpt: 'This paper is developing a web-based reservoir operation supporting tool based on generic and analytical studies.'
 date: 2020-11-02
 venue: 'Environmental Modeling and Software'
 paperurl: 'https://doi.org/10.1016/j.envsoft.2020.104918'

@@ -2,7 +2,7 @@
 title: "Developing a generic data-driven reservoir operation model"
 collection: publications
 permalink: /publication/2022-07-AWR-GDROM
-excerpt: 'The GDROM paper in AWR'
+excerpt: 'This paper is developing a data-driven reservoir operation model to empirically extract daily release policies.'
 date: 2022-07-16
 venue: 'Advances in Water Resources'
 paperurl: 'https://doi.org/10.1016/j.advwatres.2022.104274'
