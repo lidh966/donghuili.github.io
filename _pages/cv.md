@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV is [here](files/).
+Full CV is [here](/files/CV.pdf).
 
 Research Interests
 =====
