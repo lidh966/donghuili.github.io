@@ -2,11 +2,10 @@
 title: "Developing a generic data-driven reservoir operation model"
 collection: publications
 permalink: /publication/2022-07-AWR-GDROM
-excerpt: 'This paper is developing a data-driven reservoir operation model to empirically extract daily release policies.'
+excerpt: 'This paper is developing a data-driven reservoir operation model that couples hidden Markov model with decision tree model to empirically model daily release policies.'
 date: 2022-07-16
 venue: 'Advances in Water Resources'
 paperurl: 'https://doi.org/10.1016/j.advwatres.2022.104274'
-citation: 'Chen, Y., Li, D., Zhao, Q., and Cai, X. (2022). &quot;Developing a generic data-driven reservoir operation model.&quot; <i>Advances in Water Resources</i>. 167.'
 ---
 
 ### Highlights

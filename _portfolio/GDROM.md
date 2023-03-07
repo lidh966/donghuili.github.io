@@ -8,6 +8,8 @@ This project couples hidden Markov model and decision tree model to simulate dai
 
 * Check our paper in Advances in Water Resources ["Developing a generic data-driven reservoir operation model"](https://doi.org/10.1016/j.advwatres.2022.104274)!
 
+* Our modeo code is open in the [github repo](https://github.com/lidh966/GDROM).
+
 
 
 

@@ -6,7 +6,6 @@ excerpt: 'This paper is developing a web-based reservoir operation supporting to
 date: 2020-11-02
 venue: 'Environmental Modeling and Software'
 paperurl: 'https://doi.org/10.1016/j.envsoft.2020.104918'
-citation: 'Chen, Y., Li, D., Zhao, Q., & Cai, X. (2022). Developing a generic data-driven reservoir operation model. Advances in Water Resources, 167, 104274.'
 ---
 
 ### Highlights

@@ -37,24 +37,41 @@ Research Experiences
 
 * 2017 - 2018: Senior Project, Tsinghua University
   * Hedging operation for parallel-reservoirs system for water supply and flood control.
+
+Talks
+======
+* [EWRI 2023] **Li, D.**, Chen, Y., Zhao, Q., & Cai, X. (2023 May.) "Operation rules and patterns for 450+ large reservoirs in the Contiguous United States".
+* [EWRI 2022] **Li, D.**, Chen, Y., Zhao, Q., & Cai, X. (2022 May.) "Improving the representation of water resources management in hydrological simulation based on a data-driven reservoir operation model".
+* [EWRI 2022] Chen Y., **Li, D.**, Zhao Q., & Cai, X. (2022 May). Developing a generic data-driven reservoir operation model. EWRI 2022
+* [EWRI 2021] **Li, D.**, Zhao, Q., & Cai, X. (2021 May.) "DROT – A Diagnostic Reservoir Operation Tool".
+* [EWRI 2019] **Li, D.**, Zhao, Q., & Cai, X. (2019 May.) "Decision support tool for reservoir operation based on derived rules".
+
+Publications
+======
+* **Li, D.<sup>*</sup>**, Chen Y., Lyu L., & Cai, X. (in review). Operation rules and patterns for 452 large reservoirs in the Contiguous United States. Water Resources Research.
+* Chen, Y., **Li, D.<sup>*</sup>**, Zhao, Q., & Cai, X. (2022). Developing a generic data-driven reservoir operation model. _Advances in Water Resources, 167_, 104274.
+* Zhao, Q., **Li, D.<sup>*</sup>**, & Cai, X. (2021). Online generic diagnostic reservoir operation tools. _Environmental Modelling & Software, 135_, 104918.
+
+Data and Products
+======
+* Data-driven reservoir operation rules for 450+ reservoirs in the CONUS. 
   
+  [link](https://www.hydroshare.org/resource/63add4d5826a4b21a6546c571bdece10/) to the HydroShare repo.
+* Web-based supporting tools for generic diagnostic reservoir operation 
+  
+  [link](http://www.drotreservoir.net/) to the web tool.
+
+Awards and Fellowships
+======
+* Conference Travel/Presentation Award, 2021 University of Illinois at Urbana-Champaign
+* Yen Fellowship, 2018 University of Illinois at Urbana-Champaign
+* Academic Excellence Scholarship, 2016 & 2017, Tsinghua University 
+
 Skills
 ======
 * Scientific computing: Python, R, Fortran, Matlab
 * Machine learning: scikit-learn, PyTorch
-* Cloud computing: AWS EC2
-
-Publications
-======
-* Chen, Y., **Li, D.<sup>*</sup>**, Zhao, Q., & Cai, X. (2022). Developing a generic data-driven reservoir operation model. _Advances in Water Resources, 167_, 104274.
-* Zhao, Q., **Li, D.<sup>*</sup>**, & Cai, X. (2021). Online generic diagnostic reservoir operation tools. _Environmental Modelling & Software, 135_, 104918.
-
-Talks
-======
-* [EWRI 2023] Li, D., Chen, Y., Zhao, Q., & Cai, X. (2023 May.) "Operation rules and patterns for 450+ large reservoirs in the Contiguous United States".
-* [EWRI 2022] Li, D., Chen, Y., Zhao, Q., & Cai, X. (2022 May.) "Improving the representation of water resources management in hydrological simulation based on a data-driven reservoir operation model".
-* [EWRI 2021] Li, D., Zhao, Q., & Cai, X. (2021 May.) "DROT – A Diagnostic Reservoir Operation Tool".
-* [EWRI 2019] Li, D., Zhao, Q., & Cai, X. (2019 May.) "Decision support tool for reservoir operation based on derived rules".
+* Cloud computing and web development: AWS EC2, HTML, JavaScript
 
 Memberships
 ======

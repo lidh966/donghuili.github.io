@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Donghui Li / Personal Academic Website"
+title                    : "Donghui Li / My Website"
 title_separator          : "-"
 name                     : &name "Donghui Li"
 description              : &description "personal description"
