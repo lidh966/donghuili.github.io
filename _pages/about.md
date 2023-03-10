@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! My name is Donghui Li, a Ph.D. student at Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign. I'm currently working with my advisor Dr. Ximing Cai on water resources system analysis, data-driven reservoir operation modeling and its implementation with hydrological simulations, and coupled hydro-human drought events. Please check out my [CV](/cv/) here.
-
+Hey! My name is Donghui Li. I am a Ph.D. student at Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign. I'm interested in understanding the hydrological extremes and their interaction with socioeconomic activities using interdisciplinary approaches. I've been working with my advisor [Dr. Ximing Cai](https://cee.illinois.edu/directory/profile/xmcai) on generic reservoir operation modeling, data-driven reservoir operation modeling and its implementation with hydrological simulations, and coupled hydro-socioeconomic drought events. Please check out my [CV](/cv/) here.
 
 > ### News
 > - [2023-05] I will be presenting at the upcoming EWRI on data-driven reservoir operation modeling and operation patterns: "Operation rules and patterns for 450+ large reservoirs in the Contiguous United States". Hope to chat with you!
