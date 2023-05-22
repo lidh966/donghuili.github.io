@@ -63,6 +63,7 @@ Data and Products
 
 Awards and Fellowships
 ======
+* Mavis Future Faculty Fellows, 2023 University of Illinois at Urbana-Champaign
 * Conference Travel/Presentation Award, 2021 University of Illinois at Urbana-Champaign
 * Yen Fellowship, 2018 University of Illinois at Urbana-Champaign
 * Academic Excellence Scholarship, 2016 & 2017, Tsinghua University 
