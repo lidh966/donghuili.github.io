@@ -42,13 +42,14 @@ Talks
 ======
 * [EWRI 2023] **Li, D.**, Chen, Y., Zhao, Q., & Cai, X. (2023 May.) "Operation rules and patterns for 450+ large reservoirs in the Contiguous United States".
 * [EWRI 2022] **Li, D.**, Chen, Y., Zhao, Q., & Cai, X. (2022 May.) "Improving the representation of water resources management in hydrological simulation based on a data-driven reservoir operation model".
-* [EWRI 2022] Chen Y., **Li, D.**, Zhao Q., & Cai, X. (2022 May). Developing a generic data-driven reservoir operation model. EWRI 2022
+* [EWRI 2022] Chen Y., **Li, D.**, Zhao Q., & Cai, X. (2022 May). "Developing a generic data-driven reservoir operation model".
 * [EWRI 2021] **Li, D.**, Zhao, Q., & Cai, X. (2021 May.) "DROT – A Diagnostic Reservoir Operation Tool".
 * [EWRI 2019] **Li, D.**, Zhao, Q., & Cai, X. (2019 May.) "Decision support tool for reservoir operation based on derived rules".
 
 Publications
 ======
-* **Li, D.<sup>*</sup>**, Chen Y., Lyu L., & Cai, X. (in review). Operation rules and patterns for 452 large reservoirs in the Contiguous United States. Water Resources Research.
+* Vora, A., Cai, X., Chen Y., **Li, D**. (under review). Coupling Reservoir Operation and Rainfall-Runoff Processes for Streamflow Simulation in Watersheds. _Water Resources Research_.
+* **Li, D.<sup>*</sup>**, Chen Y., Lyu L., & Cai, X. (under revision). Uncovering Historical Reservoir Operation Rules and Patterns: Insights from 452 Large Reservoirs in the Contiguous United States. _Water Resources Research_.
 * Chen, Y., **Li, D.<sup>*</sup>**, Zhao, Q., & Cai, X. (2022). Developing a generic data-driven reservoir operation model. _Advances in Water Resources, 167_, 104274.
 * Zhao, Q., **Li, D.<sup>*</sup>**, & Cai, X. (2021). Online generic diagnostic reservoir operation tools. _Environmental Modelling & Software, 135_, 104918.
 
@@ -63,9 +64,9 @@ Data and Products
 
 Awards and Fellowships
 ======
-* Mavis Future Faculty Fellows, 2023 University of Illinois at Urbana-Champaign
-* Conference Travel/Presentation Award, 2021 University of Illinois at Urbana-Champaign
-* Yen Fellowship, 2018 University of Illinois at Urbana-Champaign
+* Mavis Future Faculty Fellows, 2023, University of Illinois at Urbana-Champaign
+* Conference Travel/Presentation Award, 2021, University of Illinois at Urbana-Champaign
+* Yen Fellowship, 2018, University of Illinois at Urbana-Champaign
 * Academic Excellence Scholarship, 2016 & 2017, Tsinghua University 
 
 Skills
