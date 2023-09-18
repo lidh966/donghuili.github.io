@@ -13,8 +13,9 @@ Full CV is [here](/files/CV.pdf).
 
 Research Interests
 =====
-* Water Resources Engineering and Forecast-informed Reservoir Operation
-* Machine Learning and Data-driven Model
+* Water Resources Management and Forecast-informed Reservoir Operation
+* Coupled Human-Earth System Modeling
+* Machine Learning and Data-driven Modeling
 * Hydrological and Socioeconomic Drought
 * Water Economics
 
